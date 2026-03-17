@@ -4,7 +4,7 @@
 This project presents a comprehensive analysis of **ZARA's Sales & Operations**. The goal was to transform raw sales data into an interactive visual story that helps decision-makers understand consumer behavior, seasonal trends, and revenue drivers.
 
 ## 📊 Dashboard Preview
-![Interactive Dashboard](Dashboard.png/Dashboard.png)
+![Interactive Dashboard](Dashboard.png)
 *Note: If the image doesn't load, please ensure the file path and extension are correct.*
 
 ## 🚀 Key Features
