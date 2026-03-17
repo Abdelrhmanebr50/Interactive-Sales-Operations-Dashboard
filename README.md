@@ -13,5 +13,5 @@ This project focuses on analyzing sales data for ZARA to extract actionable insi
 - **Promotion Impact:** Evaluation of how promotions affect total sales volume.
 
 ## 📁 Repository Structure
-- `/Data`: Contains the dataset used for analysis.
+- `/Data-sales`: Contains the dataset used for analysis.
 - `/Dashboard`: The final Excel workbook with the interactive dashboard.
