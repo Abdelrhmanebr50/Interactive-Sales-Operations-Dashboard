@@ -5,7 +5,6 @@ This project presents a comprehensive analysis of **ZARA's Sales & Operations**.
 
 ## 📊 Dashboard Preview
 ![Interactive Dashboard](Dashboard.png)
-*Note: If the image doesn't load, please ensure the file path and extension are correct.*
 
 ## 🚀 Key Features
 - **Multi-Page Navigation:** Interactive tabs for seamless switching between Sales Volume, Total Revenue, Categories, and Seasonal Analysis.
